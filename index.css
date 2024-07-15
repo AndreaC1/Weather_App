@@ -1,0 +1,58 @@
+h1{
+    color: yellow;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(33, 44, 187)
+}
+
+#form{
+    font-size: 1.3rem;
+    text-align: center;
+    color: white;
+}
+
+#submitBtn{
+    text-align: center;
+    margin-left: 60px;
+}
+
+p{
+    
+   text-align: center;
+   color: white;
+}
+
+#imageContainer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#saveBtn{
+    
+    margin-left: 50%
+    
+}
+
+#clearBtn2{
+    
+    margin-left: 50%
+    
+}
+
+#selectloc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#container2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
